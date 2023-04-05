@@ -1,0 +1,15 @@
+{
+  "amplify": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testiv-amplify-120848-authRole",
+      "UnauthRoleArn": "arn:aws:iam::635500745347:role/amplify-testiv-amplify-120848-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::635500745347:role/amplify-testiv-amplify-120848-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-testiv-amplify-120848-deployment",
+      "UnauthRoleName": "amplify-testiv-amplify-120848-unauthRole",
+      "StackName": "amplify-testiv-amplify-120848",
+      "StackId": "arn:aws:cloudformation:us-east-1:635500745347:stack/amplify-testiv-amplify-120848/5dbe6610-d13e-11ed-9aad-0aa84bfcb6f5",
+      "AmplifyAppId": "d2n70vl0vzzcyz"
+    }
+  }
+}
